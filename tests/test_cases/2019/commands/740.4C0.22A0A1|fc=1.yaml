@@ -1,0 +1,74 @@
+command_id: 740.4C0.22A0A1|fc=1
+test_cases:
+- expected_values:
+    RAMC_TP_FL_740: 36
+    RAMC_TP_FR_740: 36
+    RAMC_TP_RL_740: 35
+    RAMC_TP_RR_740: 35
+  response: |-
+    4C0100B62A0A1242423
+    4C02123FFFFFF612423
+- expected_values:
+    RAMC_TP_FL_740: 36
+    RAMC_TP_FR_740: 36
+    RAMC_TP_RL_740: 36
+    RAMC_TP_RR_740: 36
+  response: |-
+    4C0100B62A0A1242424
+    4C02124FFFFFF602424
+- expected_values:
+    RAMC_TP_FL_740: 36
+    RAMC_TP_FR_740: 36
+    RAMC_TP_RL_740: 36
+    RAMC_TP_RR_740: 36
+  response: |-
+    4C0100B62A0A1242424
+    4C02124FFFFFF612424
+- expected_values:
+    RAMC_TP_FL_740: 37
+    RAMC_TP_FR_740: 37
+    RAMC_TP_RL_740: 36
+    RAMC_TP_RR_740: 36
+  response: |-
+    4C0100B62A0A1252524
+    4C02124FFFFFF602524
+- expected_values:
+    RAMC_TP_FL_740: 37
+    RAMC_TP_FR_740: 37
+    RAMC_TP_RL_740: 37
+    RAMC_TP_RR_740: 36
+  response: |-
+    4C0100B62A0A1252524
+    4C02125FFFFFF602524
+- expected_values:
+    RAMC_TP_FL_740: 37
+    RAMC_TP_FR_740: 37
+    RAMC_TP_RL_740: 37
+    RAMC_TP_RR_740: 37
+  response: |-
+    4C0100B62A0A1252525
+    4C02125FFFFFF602525
+- expected_values:
+    RAMC_TP_FL_740: 38
+    RAMC_TP_FR_740: 38
+    RAMC_TP_RL_740: 37
+    RAMC_TP_RR_740: 37
+  response: |-
+    4C0100B62A0A1262625
+    4C02125FFFFFF602625
+- expected_values:
+    RAMC_TP_FL_740: 40
+    RAMC_TP_FR_740: 40
+    RAMC_TP_RL_740: 39
+    RAMC_TP_RR_740: 39
+  response: |-
+    4C0100B62A0A1282827
+    4C02127FFFFFF002827
+- expected_values:
+    RAMC_TP_FL_740: 40
+    RAMC_TP_FR_740: 40
+    RAMC_TP_RL_740: 39
+    RAMC_TP_RR_740: 39
+  response: |-
+    4C0100B62A0A1282827
+    4C02127FFFFFF602827

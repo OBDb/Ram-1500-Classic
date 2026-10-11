@@ -1,0 +1,44 @@
+command_id: 740.4C0.22A0F4|fc=1
+test_cases:
+- expected_values:
+    RAMC_TP_RL_F: 247.8
+    RAMC_TT_RL_F: 34
+  response: |-
+    4C0100C62A0F409AE00
+    4C021004AB05C2C2C00
+- expected_values:
+    RAMC_TP_RL_F: 248.8
+    RAMC_TT_RL_F: 33
+  response: |-
+    4C0100C62A0F409B800
+    4C0210049B05C494900
+- expected_values:
+    RAMC_TP_RL_F: 251.5
+    RAMC_TT_RL_F: 34
+  response: |-
+    4C0100C62A0F409D300
+    4C021004AB05C000000
+- expected_values:
+    RAMC_TP_RL_F: 254.3
+    RAMC_TT_RL_F: 34
+  response: |-
+    4C0100C62A0F409EF00
+    4C021004AB15C2C2C00
+- expected_values:
+    RAMC_TP_RL_F: 257
+    RAMC_TT_RL_F: 35
+  response: |-
+    4C0100C62A0F40A0A00
+    4C021004BC05C181800
+- expected_values:
+    RAMC_TP_RL_F: 259.8
+    RAMC_TT_RL_F: 37
+  response: |-
+    4C0100C62A0F40A2600
+    4C021004DF05C2E2E00
+- expected_values:
+    RAMC_TP_RL_F: 273.5
+    RAMC_TT_RL_F: 47
+  response: |-
+    4C0100C62A0F40AAF00
+    4C0210057F05C2E2E00
