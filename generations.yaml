@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Ram_pickup"
+
+generations:
+  - name: "DS"
+    start_year: 2019
+    end_year: 2024
+    description: "The fourth-generation Ram 1500 sold alongside the newer DT, with the 3.6 L Pentastar V6 and 5.7 L HEMI V8."
